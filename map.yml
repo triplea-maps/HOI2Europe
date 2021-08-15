@@ -1,0 +1,4 @@
+map_name: HOI2Europe
+games:
+- {game_name: HeartsOfIron2-Europe, file_name: HOI2Europe.xml}
+version: 0
